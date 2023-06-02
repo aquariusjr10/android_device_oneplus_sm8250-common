@@ -23,6 +23,9 @@ dalvik.vm.dex2oat64.enabled=true
 # DPM
 persist.vendor.dpm.feature=9
 
+# Feature flags
+persist.sys.fflag.override.settings_enable_monitor_phantom_procs=false
+
 # GPS
 persist.backup.ntpServer=0.pool.ntp.org
 
